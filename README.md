@@ -1,6 +1,7 @@
 <!-- List Of Websites-->
 [github]: https://github.com/Blu3Jive001
 [gmail]: mailto:blu3jive@gmail.com
+[reddit]: https://www.reddit.com/user/Lamenter666
 
 <p align="center">
   <img alt="Blu3Jive001's's Stats" src="https://github-readme-stats.vercel.app/api/?username=Blu3Jive001&layout=compact&show_icons=true&include_all_commits=true&hide_border=true&theme=radical" />
@@ -12,10 +13,10 @@
 
 ### Hi there, I'm [Blu3Jive001](https://github.com/Blu3Jive001) 👋
 
-- 🥅 I’m Currently: **In University and working at Invenia AS
+- 🥅 I’m Currently: **In University and working at Invenia AS**
 - 🌱 I’m Currently: **Learning Full Stack Web Development & C**
 - 🔭 2021 Goals: **Contribute To Open Source Projects, Try Some New Distros, Rice All Day & Complete My Masters**
-- ⚡ Fun Fact: **I USE UBuNTU BTW**
+- ⚡ Fun Fact: **I USE UBUNTU BTW**
 
 ### Few Places Where I Exist:
 
