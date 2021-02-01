@@ -38,4 +38,4 @@
 
 <br />
 
-![image](https://i.ibb.co/ZXmn463/bluejive.png)
+![image](https://i.ibb.co/nPkmp1K/bluejive.png)
