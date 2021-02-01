@@ -4,11 +4,11 @@
 [reddit]: https://www.reddit.com/user/Lamenter666
 
 <p align="center">
-  <img alt="Blu3Jive001's's Stats" src="https://github-readme-stats.vercel.app/api/?username=Blu3Jive001&layout=compact&show_icons=true&include_all_commits=true&hide_border=true&theme=radical" />
+  <img alt="Blu3Jive001's's Stats" src="https://github-readme-stats.vercel.app/api/?username=Blu3Jive001&layout=compact&show_icons=true&include_all_commits=true&hide_border=true&theme=nord" />
 </p>
 
 <p align="center">
-  <img alt="Blu3Jive001's Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blu3Jive001&layout=compact&show_icons=true&include_all_commits=true&hide_border=true&theme=radical&langs_count=10" />
+  <img alt="Blu3Jive001's Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blu3Jive001&layout=compact&show_icons=true&include_all_commits=true&hide_border=true&theme=nord&langs_count=10" />
 </p>
 
 ### Hi there, I'm [Blu3Jive001](https://github.com/Blu3Jive001) 👋
