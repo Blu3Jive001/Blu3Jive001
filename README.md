@@ -21,7 +21,7 @@
 ### Few Places Where I Exist:
 
 [<img align="left" alt="BlueJive001 | Github" width="22px" src="https://image.flaticon.com/icons/svg/733/733553.svg" />][github]
-[<img align="left" alt="Lamenter666 | Instagram" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/2111/2111589.svg?token=exp=1612119565~hmac=f971c14e9568bb07a8c98d289957ef96" />][reddit]
+[<img align="left" alt="Lamenter666 | Reddit" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/2111/2111589.svg?token=exp=1612119565~hmac=f971c14e9568bb07a8c98d289957ef96" />][reddit]
 [<img align="left" alt="BlueJive | Email" width="22px" src="https://image.flaticon.com/icons/svg/732/732200.svg" />][gmail]
 
 <br />
