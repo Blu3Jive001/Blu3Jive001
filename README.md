@@ -11,6 +11,9 @@
   <img alt="Blu3Jive001's Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blu3Jive001&layout=compact&show_icons=true&include_all_commits=true&hide_border=true&theme=nord&langs_count=10" />
 </p>
 
+![Profile Views](https://api.ghprofile.me/view?username=v1nam&label=profile_views)
+
+
 ### Hi there, I'm [Blu3Jive001](https://github.com/Blu3Jive001) 👋
 
 - 🥅 I’m Currently: **In University and working at Invenia AS**
@@ -37,5 +40,3 @@
 [<img align="left" alt="Linux" width="26px" src="https://image.flaticon.com/icons/svg/226/226772.svg" />](https://www.google.com/search?&q=Linux)
 
 <br />
-
-![Profile Views](https://api.ghprofile.me/view?username=v1nam&label=profile_views)
