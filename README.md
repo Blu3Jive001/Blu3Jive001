@@ -37,3 +37,5 @@
 [<img align="left" alt="Linux" width="26px" src="https://image.flaticon.com/icons/svg/226/226772.svg" />](https://www.google.com/search?&q=Linux)
 
 <br />
+
+![Profile Views](https://api.ghprofile.me/view?username=v1nam&label=profile_views)
