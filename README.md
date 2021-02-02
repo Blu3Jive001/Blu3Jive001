@@ -11,7 +11,7 @@
   <img alt="Blu3Jive001's Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blu3Jive001&layout=compact&show_icons=true&include_all_commits=true&hide_border=true&theme=nord&langs_count=10" />
 </p>
 
-![Profile Views](https://api.ghprofile.me/view?username=v1nam&label=profile_views)
+![Profile Views](https://api.ghprofile.me/view?username=Blu3Jive001&label=profile_views)
 
 
 ### Hi there, I'm [Blu3Jive001](https://github.com/Blu3Jive001) 👋
