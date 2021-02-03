@@ -41,6 +41,13 @@
 
 <br />
 
+<a href="https://github.com/Blu3Jive001/Blu3Jive001">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blu3Jive001&hide=html&bg_color=031a1f&title_color=bdddff&text_color=44a7c4&icon_color=0e6b7f" />
+</a>
+<a href="https://github.com/Blu3Jive001/Blu3Jive001">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Blu3Jive001&show_icons=true&show_owner=true&line_height=27&count_private=true&include_all_commits=true&title_color=bdddff&text_color=1cd6ff&icon_color=ef8539&bg_color=031a1f" alt="Dan's GitHub Stats" />
+</a>
+
 &nbsp;
 
 <p align="center"><img src="https://raw.githubusercontent.com/arcticicestudio/nord-docs/develop/assets/images/nord/repository-footer-separator.svg?sanitize=true" /></p>
