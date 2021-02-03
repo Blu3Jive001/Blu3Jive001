@@ -3,6 +3,8 @@
 [gmail]: mailto:blu3jive@gmail.com
 [reddit]: https://www.reddit.com/user/Lamenter666
 
+![image](https://raw.githubusercontent.com/Blu3Jive001/Blu3Jive001/master/hello.png)
+
 ![Profile Views](https://api.ghprofile.me/view?username=Blu3Jive001&label=profile_views)
 
 
