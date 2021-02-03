@@ -3,14 +3,6 @@
 [gmail]: mailto:blu3jive@gmail.com
 [reddit]: https://www.reddit.com/user/Lamenter666
 
-<p align="center">
-  <img alt="Blu3Jive001's's Stats" src="https://github-readme-stats.vercel.app/api/?username=Blu3Jive001&layout=compact&show_icons=true&include_all_commits=true&hide_border=true&theme=nord" />
-</p>
-
-<p align="center">
-  <img alt="Blu3Jive001's Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blu3Jive001&layout=compact&show_icons=true&include_all_commits=true&hide_border=true&theme=nord&langs_count=10" />
-</p>
-
 ![Profile Views](https://api.ghprofile.me/view?username=Blu3Jive001&label=profile_views)
 
 
@@ -42,3 +34,13 @@
 &nbsp;
 
 <p align="center"><img src="https://raw.githubusercontent.com/arcticicestudio/nord-docs/develop/assets/images/nord/repository-footer-separator.svg?sanitize=true" /></p>
+
+&nbsp;
+
+<p align="center">
+  <img alt="Blu3Jive001's's Stats" src="https://github-readme-stats.vercel.app/api/?username=Blu3Jive001&layout=compact&show_icons=true&include_all_commits=true&hide_border=true&theme=nord" />
+</p>
+
+<p align="center">
+  <img alt="Blu3Jive001's Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blu3Jive001&layout=compact&show_icons=true&include_all_commits=true&hide_border=true&theme=nord&langs_count=10" />
+</p>
