@@ -14,7 +14,7 @@
 ![Profile Views](https://api.ghprofile.me/view?username=Blu3Jive001&label=profile_views)
 
 
-### Hi there, I'm [Blu3Jive001](https://github.com/Blu3Jive001) 👋
+### Hi there, I'm [Blu3Jive001](https://blu3jive001.github.io) 👋
 
 - 🥅 I’m Currently: **In University and working at Invenia AS**
 - 🌱 I’m Currently: **Learning Full Stack Web Development & C**
