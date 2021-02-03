@@ -39,13 +39,6 @@
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />](https://www.google.com/search?&q=command+line+interface)
 [<img align="left" alt="Linux" width="26px" src="https://image.flaticon.com/icons/svg/226/226772.svg" />](https://www.google.com/search?&q=Linux)
 
-<a href="https://github.com/Blu3Jive001/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Blu3Jive001&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/Blu3Jive001/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Blu3Jive001&repo=convoychat" />
-</a>
-
 &nbsp;
 
 <p align="center"><img src="https://raw.githubusercontent.com/arcticicestudio/nord-docs/develop/assets/images/nord/repository-footer-separator.svg?sanitize=true" /></p>
