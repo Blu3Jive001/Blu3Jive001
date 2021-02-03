@@ -39,13 +39,11 @@
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />](https://www.google.com/search?&q=command+line+interface)
 [<img align="left" alt="Linux" width="26px" src="https://image.flaticon.com/icons/svg/226/226772.svg" />](https://www.google.com/search?&q=Linux)
 
-<br />
-
-<a href="https://github.com/Blu3Jive001/Blu3Jive001">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blu3Jive001&hide=html&bg_color=031a1f&title_color=bdddff&text_color=44a7c4&icon_color=0e6b7f" />
+<a href="https://github.com/Blu3Jive001/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Blu3Jive001&repo=github-readme-stats" />
 </a>
-<a href="https://github.com/Blu3Jive001/Blu3Jive001">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Blu3Jive001&show_icons=true&show_owner=true&line_height=27&count_private=true&include_all_commits=true&title_color=bdddff&text_color=1cd6ff&icon_color=ef8539&bg_color=031a1f" alt="Dan's GitHub Stats" />
+<a href="https://github.com/Blu3Jive001/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Blu3Jive001&repo=convoychat" />
 </a>
 
 &nbsp;
