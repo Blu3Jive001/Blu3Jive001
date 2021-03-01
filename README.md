@@ -13,7 +13,7 @@
 - 🥅 I’m Currently: **In University and working at Invenia AS**
 - 🌱 I’m Currently: **Learning Full Stack Web Development & C**
 - 🔭 2021 Goals: **Contribute To Open Source Projects, Try Some New Distros, Rice All Day & Complete My Masters**
-- ⚡ Fun Fact: **I USE UBUNTU BTW**
+- ⚡ Fun Fact: **I USE WINDOWS BTW**
 
 <br />
 
