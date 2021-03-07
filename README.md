@@ -33,3 +33,7 @@
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Blu3Jive001&no-frame=true&theme=nord&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img  align="right"  src="https://github-profile-trophy.vercel.app/?username=Blu3Jive001&no-frame=true&theme=nord&row=1" alt="Deploy">
+</a>
