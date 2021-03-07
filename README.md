@@ -30,3 +30,10 @@
 &nbsp;
 
 <p align="center"><img src="https://raw.githubusercontent.com/arcticicestudio/nord-docs/develop/assets/images/nord/repository-footer-separator.svg?sanitize=true" /></p>
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Blu3Jive001&no-frame=true&theme=nord&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
+<img src="https://github-readme-stats.vercel.app/api?username=Blu3Jive001&show_icons=true&theme=nord&include_all_commits=true&hide_border=true" alt="Blu3Jive001's GitHub Statistics" /><a/>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blu3Jive001&theme=nord&show_icons=true&hide_border=true" alt="Blu3Jive001's top langs" /><a/>
