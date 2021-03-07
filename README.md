@@ -32,4 +32,4 @@
 <p align="center"><img src="https://raw.githubusercontent.com/arcticicestudio/nord-docs/develop/assets/images/nord/repository-footer-separator.svg?sanitize=true" /></p>
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Blu3Jive001)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Blu3Jive001&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
