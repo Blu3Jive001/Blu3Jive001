@@ -9,8 +9,8 @@
 ### Hi there, I'm [Blu3Jive001](https://blu3jive001.github.io) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 - 🥅 I’m Currently: **In University and working at Invenia AS**
-- 🌱 I’m Currently: **Learning Full Stack Web Development & C**
-- 🔭 2021 Goals: **Contribute To Open Source Projects, Try Some New Distros, Rice All Day & Complete My Masters**
+- 🌱 I’m Currently: **Working on a Windows Project & Drowning in Uni Work**
+- 🔭 2021 Goals: **Complete My Masters, Learn Rust In More Depth**
 - ⚡ Fun Fact: **I USE WINDOWS BTW**
 
 <br />
