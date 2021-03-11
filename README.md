@@ -5,8 +5,6 @@
 
 ![image](https://raw.githubusercontent.com/Blu3Jive001/Blu3Jive001/master/hello.png)
 
-![Profile Views](https://api.ghprofile.me/view?username=Blu3Jive001&label=profile_views)
-
 
 ### Hi there, I'm [Blu3Jive001](https://blu3jive001.github.io) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
