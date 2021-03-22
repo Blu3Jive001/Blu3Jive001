@@ -26,6 +26,7 @@
 [<img align="left" alt="Linux" width="26px" src="https://image.flaticon.com/icons/svg/226/226772.svg" />](https://www.google.com/search?&q=Linux)
 
 &nbsp;
+&nbsp;
 
 ## Github Stats
 
@@ -42,7 +43,5 @@
   <a href="https://github.com/rjsamra/github-readme-stats"><img alt="BlueJive's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blu3Jive001&layout=compact&show_icons=true&include_all_commits=true&hide_border=true&theme=nord&langs_count=10" /></a>
   <br/>
 </details>
-
-&nbsp;
 
 <p align="center"><img src="https://raw.githubusercontent.com/arcticicestudio/nord-docs/develop/assets/images/nord/repository-footer-separator.svg?sanitize=true" /></p>
