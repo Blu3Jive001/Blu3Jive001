@@ -30,4 +30,18 @@
 <p align="center"><img src="https://raw.githubusercontent.com/arcticicestudio/nord-docs/develop/assets/images/nord/repository-footer-separator.svg?sanitize=true" /></p>
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Blu3Jive001&theme=nord&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+## Github Stats
+
+<details>
+  <summary>My Pofile Stats</summary>
+  <br/>
+  <a href="https://github.com/rjsamra/github-readme-stats"><img alt="BlueJive's GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=Blu3Jive001&layout=compact&show_icons=true&include_all_commits=true&hide_border=true&theme=nord" /></a>
+  <br/>
+</details>
+
+<details> 
+  <summary>My Most Used Languages</summary>
+  <br/>
+  <a href="https://github.com/rjsamra/github-readme-stats"><img alt="BlueJive's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blu3Jive001&layout=compact&show_icons=true&include_all_commits=true&hide_border=true&theme=nord&langs_count=10" /></a>
+  <br/>
+</details>
