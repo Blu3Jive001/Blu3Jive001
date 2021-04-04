@@ -32,7 +32,7 @@
 ## Github Stats
 
 <details>
-  <summary>My Pofile Stats</summary>
+  <summary>My Profile Stats</summary>
   <br/>
   <a href="https://github.com/rjsamra/github-readme-stats"><img alt="BlueJive's GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=Blu3Jive001&layout=compact&show_icons=true&include_all_commits=true&hide_border=true&theme=nord" /></a>
   <br/>
