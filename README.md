@@ -6,12 +6,12 @@
 ![image](https://raw.githubusercontent.com/Blu3Jive001/Blu3Jive001/master/hello.png)
 
 
-### Hi there, I'm [Blu3Jive001](https://blu3jive001.github.io) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hi there, I'm [Jive](https://blu3jive001.github.io) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-- 🥅 I’m Am: **In University and working at Invenia AS**
-- 🌱 I’m Currently: **Working on a Windows Project & Drowning in Uni Work**
-- 🔭 2021 Goals: **Complete My Masters, Learn Rust In More Depth**
-- ⚡ Fun Fact: **I USE WINDOWS BTW**
+- 🥅 I’m Am: **In a Norweigan University**
+- 🌱 I’m Currently: **Working on a new Windows Project and suffering from crippling workload**
+- 🔭 2022 Goals: **Stop wasting my time working on Windows projects and cope better with my workloads**
+- ⚡ Fun Fact: **I USE WINDOWS (10) BTW**
 
 <br />
 
