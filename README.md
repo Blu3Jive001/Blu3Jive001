@@ -1,7 +1,7 @@
 <!-- List Of Websites-->
 [github]: https://github.com/Blu3Jive001
 [gmail]: mailto:blu3jive@gmail.com
-[reddit]: https://www.reddit.com/user/Lamenter666
+[reddit]: https://www.reddit.com/user/Blu3Jive01/comments/6
 
 <!-- ![image](https://raw.githubusercontent.com/Blu3Jive001/Blu3Jive001/master/hello.png) -->
 
@@ -44,3 +44,5 @@
 </details>
 
 <p align="center"><img src="https://raw.githubusercontent.com/arcticicestudio/nord-docs/develop/assets/images/nord/repository-footer-separator.svg?sanitize=true" /></p>
+
+<-- I'm transgender, that's why I changed my displayed name :) -->
