@@ -44,5 +44,3 @@
 </details>
 
 <p align="center"><img src="https://raw.githubusercontent.com/arcticicestudio/nord-docs/develop/assets/images/nord/repository-footer-separator.svg?sanitize=true" /></p>
-
-<-- I'm transgender, that's why I changed my displayed name :) -->
