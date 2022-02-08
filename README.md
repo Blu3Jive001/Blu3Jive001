@@ -8,7 +8,7 @@
 
 ### Hi there, I'm [Jive](https://blu3jive001.github.io) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-- 🥅 I’m Am: **In University**
+- 🥅 I Am: **In University**
 - 🌱 I’m Currently: **Working on a new Windows Project and suffering from crippling workload**
 - 🔭 2022 Goals: **Stop wasting my time working on Windows projects and cope better with my workloads**
 - ⚡ Fun Fact: **I USE WINDOWS (10) BTW**
