@@ -1,11 +1,3 @@
-<!-- List Of Websites-->
-[github]: https://github.com/Blu3Jive001
-[gmail]: mailto:blu3jive@gmail.com
-
-&nbsp;
-&nbsp;
-<br />
-
 ## Github Stats
 
 <details>
